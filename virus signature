@@ -1,1 +1,43 @@
-
+ # Wannacry 
+                "ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa",
+                "24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c",
+                # Petya varyantları
+                "027cc450ef5f8c5f653329641ec1fed91f694e0d229928963b30f6b0d7d3a745",
+                # Cryptolocker varyantları
+                "2f2c8a3dd89d8e4c44c2689e6f6f1c4f916ec42a2ec8e6f4734c89d839b57458",
+                # Locky varyantları
+                "9b4865a8018c5cd8a9d1c2e5e99dd41e71a1234f567890abcdef1234567890ab",
+                # Cerber varyantları
+                "8c9d2e5f1a4b7c3e6f9d2a5b8e1c4f7d0a3b6e9c2f5a8d1b4e7c0f3a6b9d2e5"
+            },
+            'trojan': {
+                #  truva 
+                "7b6e5159d5c3521a96e25acd89a975c9f4b83da3a42bde45785a8eb4a6a83a12",
+                "b9c7f46c1960c25c8f6b3083975d2592",
+                # Zeus varyantları
+                "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y6z7a8b9c0d1e",
+                # SpyEye varyantları
+                "f1e2d3c4b5a6978685746362514a3b2c1d0e9f8g7h6i5j4k3l2m1n0o9p8q7r"
+            },
+            'malware': {
+            
+                "f789fc68d6d679f392c8deaf1fb22654",
+                "4411c87b2f7930428e9f7f8c9d0d2618",
+                # Keylogger 
+                "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+                # Rootkit 
+                "q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+                # Spyware 
+                "g3h4i5j6k7l8m9n0o1p2q3r4s5t6u7v8"
+            },
+            'backdoor': {
+                # 
+                "w9x0y1z2a3b4c5d6e7f8g9h0i1j2k3l4",
+                "m5n6o7p8q9r0s1t2u3v4w5x6y7z8a9b0"
+            },
+            'worm': {
+                # 
+                "c1d2e3f4g5h6i7j8k9l0m1n2o3p4q5r6",
+                "s7t8u9v0w1x2y3z4a5b6c7d8e9f0g1h2"
+            }
+        }
