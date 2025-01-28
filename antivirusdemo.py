@@ -1,15 +1,3 @@
-import sqlite3
-from tkinter import *
-from tkinter import messagebox
-from tkinter import ttk
-from tkinter.font import Font
-import os
-import threading
-import time
-from datetime import datetime
-import hashlib
-import watchdog.observers
-import watchdog.events
 
 # Example virus signatures - in a real system this should be loaded from a database or current API
 VIRUS_SIGNATURES = {
@@ -230,7 +218,7 @@ def full_scan():
     status_label.pack(pady=10)
 
     time_label = ttk.Label(scan_window, text="Estimated time: Calculating...")
-    time_label.pack(pady=5)
+    time_label.pack(pady=5).
 
     results_text = Text(scan_window, height=15, width=60)
     results_text.pack(pady=10, padx=20)
