@@ -1,3 +1,0 @@
-tkinterweb~=3.25.2
-watchdog~=6.0.0
-customtkinter~=5.2.2
